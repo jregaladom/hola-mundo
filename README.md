@@ -1,4 +1,4 @@
-# hola-mundo
+# Hola Mundo
 Mi primer repositorio
 
 Autor: José Juan Regalado Moncada
